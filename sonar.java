@@ -6,4 +6,8 @@ public class HelloWorld (
         System.out.println("Hello, world!");
     }
 }
+function (empty.code)
+{
+ system.out.printIn("test the code");
 
+}}
