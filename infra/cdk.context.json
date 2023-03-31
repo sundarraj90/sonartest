@@ -1,0 +1,10 @@
+{
+  "hosted-zone:account=633625839783:domainName=itero.link:region=us-east-1": {
+    "Id": "/hostedzone/Z0471788L0WJDODAZ2OB",
+    "Name": "itero.link."
+  },
+  "hosted-zone:account=633625839783:domainName=itero.link:region=eu-west-1": {
+    "Id": "/hostedzone/Z0471788L0WJDODAZ2OB",
+    "Name": "itero.link."
+  }
+}
